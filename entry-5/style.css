@@ -1,0 +1,26 @@
+.row {
+  display: inline-block;
+  background-color: #edede8;
+  padding: 10px 20px;
+  border-radius: 6px;
+}
+
+.hover-show {
+  transition: color 0.3s ease, text-shadow 0.3s ease;
+  cursor: pointer;
+}
+
+.challenge:hover {
+  color: rgb(164, 89, 255);
+  text-shadow: 0 0 8px rgba(89, 95, 255, 0.6);
+}
+
+.survivor:hover {
+  color: rgb(52, 187, 104);
+  text-shadow: 0 0 8px rgba(52, 187, 104, 0.6);
+}
+
+.bigbrother:hover {
+  color: rgb(89, 142, 255);
+  text-shadow: 0 0 8px rgba(89, 142, 255, 0.6);
+}
