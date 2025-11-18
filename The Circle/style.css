@@ -1,0 +1,21 @@
+body {
+    margin: 0;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.circle {
+    background-color: blue;
+    border-radius: 50%;
+    width: 50vh;  
+    height: 50vh; 
+}
+
+.green {
+    background-color: green;
+    border-radius: 50%;
+    width: 50vh;  
+    height: 50vh; 
+}
