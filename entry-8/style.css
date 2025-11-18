@@ -1,0 +1,18 @@
+.row {
+  display: inline-block;
+  background-color: #edede8;
+  padding: 10px 20px;
+  border-radius: 6px;
+}
+
+.popupWord {
+  color: rgb(217, 43, 104);
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.popupWord:hover {
+  color: gold;
+  transform: scale(1.2);
+  font-weight: bold;
+}
