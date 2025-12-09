@@ -4,9 +4,21 @@ body {
   background-color: rgb(139, 173, 215);
 }
 
-main {
+.main {
+  text-align: left;
   width: 70%;
   height: 100vh;
   background-color: white;
   padding: 1%;
 }
+
+button {
+    width: 200px;
+    height: 100px;
+}
+
+.groog {
+    width: 70%;
+    position: absolute;
+    bottom: 0;
+} 

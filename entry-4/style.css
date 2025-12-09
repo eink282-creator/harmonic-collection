@@ -30,5 +30,15 @@
 }
 
 body {
+  margin: 0;
+  float: center;
   background-color: rgb(80, 98, 163);
+}
+
+.main {
+  text-align: left;
+  width: 70%;
+  height: 100vh;
+  background-color: white;
+  padding: 1%;
 }

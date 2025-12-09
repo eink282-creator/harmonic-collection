@@ -1,3 +1,13 @@
 body {
+  margin: 0;
+  float: center;
   background-color: rgb(163, 212, 222);
+}
+
+.main {
+  text-align: left;
+  width: 70%;
+  height: 100vh;
+  background-color: white;
+  padding: 1%;
 }

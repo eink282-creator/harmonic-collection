@@ -1,10 +1,13 @@
-.row {
-  display: inline-block;
-  background-color: #edede8;
-  padding: 10px 20px;
-  border-radius: 6px;
+body {
+  margin: 0;
+  float: center;
+  background-color: rgb(186, 205, 208);
 }
 
-body {
-  background-color: rgb(186, 205, 208);
+.main {
+  text-align: left;
+  width: 70%;
+  height: 100vh;
+  background-color: white;
+  padding: 1%;
 }
