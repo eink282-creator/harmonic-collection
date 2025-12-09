@@ -1,0 +1,12 @@
+body {
+  margin: 0;
+  float: center;
+  background-color: rgb(139, 173, 215);
+}
+
+main {
+  width: 70%;
+  height: 100vh;
+  background-color: white;
+  padding: 1%;
+}

@@ -16,3 +16,7 @@
   transform: scale(1.2);
   font-weight: bold;
 }
+
+body {
+  background-color: rgb(81, 69, 173);
+}
